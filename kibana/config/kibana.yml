@@ -3,4 +3,6 @@ server.host: "0"
 
 elasticsearch.url: http://elasticsearch:9200
 elasticsearch.username: "elastic"
-elasticsearch.password: "123456"
+elasticsearch.password: "xhj0428"
+
+i18n.locale: "zh-CN"

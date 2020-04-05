@@ -1,4 +1,4 @@
-FROM docker.elastic.co/logstash/logstash:6.2.2
+FROM docker.elastic.co/logstash/logstash:7.6.2
 
 LABEL maintainer="genius840215@163.com"
 

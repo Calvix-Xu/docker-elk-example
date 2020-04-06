@@ -1,4 +1,4 @@
-FROM elasticsearch:7.6.2
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.6.2
 
 LABEL maintainer="genius840215@163.com"
 
